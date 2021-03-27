@@ -1,0 +1,18 @@
+[
+    {
+        "id": "car0",
+        "name": "Ferrari"
+    },
+    {
+        "id": "car1",
+        "name": "Lamborghini"
+    },
+    {
+        "id": "car2",
+        "name": "Fiat Panda 4x4"
+    },
+    {
+        "id": "car3",
+        "name": "Bat mobile"
+    }
+]

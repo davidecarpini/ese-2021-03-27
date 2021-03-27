@@ -1,0 +1,22 @@
+[
+    {
+        "id": "user0",
+        "name": "Lino Banfi",
+        "car": "car3"
+    },
+    {
+        "id": "user1",
+        "name": "Pupo",
+        "car": "car1"
+    },
+    {
+        "id": "user2",
+        "name": "Ilary Blasi",
+        "car": "car0"
+    },
+    {
+        "id": "user3",
+        "name": "Fiorello",
+        "car": "car2"
+    }
+]

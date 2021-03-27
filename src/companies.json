@@ -1,0 +1,26 @@
+[
+    {
+        "id": "company0",
+        "name": "Apple",
+        "logo": "https://1000marche.net/wp-content/uploads/2020/03/Apple-logo-1.jpg",
+        "owner": "user1"
+    },
+    {
+        "id": "company1",
+        "name": "Google",
+        "logo": "https://www.stefanotorre.it/intranet/immagini/1117/w1600/img1117-01-1.png",
+        "owner": "user2"
+    },
+    {
+        "id": "company2",
+        "name": "Amazon",
+        "logo": "https://www.niascaportofino.it/wp-content/uploads/2016/10/amazon-logo.jpg",
+        "owner": "user0"
+    },
+    {
+        "id": "company3",
+        "name": "Twitter",
+        "logo": "https://expoitalyart.it/wp-content/uploads/2017/11/Twitter-logo-II.jpg",
+        "owner": "user3"
+    }
+]
